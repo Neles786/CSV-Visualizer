@@ -1,0 +1,23 @@
+{
+    "appstates": [
+        {
+            "name": "travelget-prometheus-rps-p99-2",
+            "reasoning": {
+                "analysis": [],
+                "correlation": []
+            },
+            "rt": "224.49428405423296",
+            "rtWindow": {
+                "begin": "2024-04-16T19:04:52Z",
+                "end": "2024-04-16T19:09:52Z"
+            },
+            "statusCode": 0,
+            "tps": 25,
+            "tpsWindow": {
+                "begin": "2024-04-16T19:04:52Z",
+                "end": "2024-04-16T19:10:51Z"
+            },
+            "users": 4
+        }
+    ]
+}

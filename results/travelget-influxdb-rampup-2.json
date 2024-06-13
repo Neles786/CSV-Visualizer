@@ -1,0 +1,30 @@
+{
+    "appstates": [
+        {
+            "name": "travelget-influxdb-rampup-2",
+            "reasoning": {
+                "analysis": [
+                    "A satisfactory stable window could not be identified.",
+                    " Please re-run the test with 3 users. This count is chosen in the expectation that tps around 27.200000000000045 may be stable. ",
+                    "This recommendation does not consider CPU."
+                ],
+                "correlation": [
+                    "",
+                    "Response Time has increased 100% from Response Time at Breaking Pt."
+                ]
+            },
+            "rt": "97.313872",
+            "rtWindow": {
+                "begin": "2024-04-16T11:50:31Z",
+                "end": "2024-04-16T11:51:01Z"
+            },
+            "statusCode": 1,
+            "tps": 27,
+            "tpsWindow": {
+                "begin": "2024-04-16T11:53:35Z",
+                "end": "2024-04-16T12:00:46Z"
+            },
+            "users": 3
+        }
+    ]
+}

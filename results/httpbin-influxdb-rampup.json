@@ -1,0 +1,1 @@
+{"apps": [{"name": "httpbin-influxdb-rampup", "workflow": "CustomRun", "filepath": "results/httpbin-influxdb-rampup.csv"}]}

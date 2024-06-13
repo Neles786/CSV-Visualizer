@@ -1,0 +1,23 @@
+{
+    "appstates": [
+        {
+            "name": "travelget-influxdb-rps-2",
+            "reasoning": {
+                "analysis": [],
+                "correlation": []
+            },
+            "rt": "120.34118684615386",
+            "rtWindow": {
+                "begin": "2024-04-16T19:30:01Z",
+                "end": "2024-04-16T19:35:01Z"
+            },
+            "statusCode": 0,
+            "tps": 25,
+            "tpsWindow": {
+                "begin": "2024-04-16T19:30:01Z",
+                "end": "2024-04-16T19:35:59Z"
+            },
+            "users": 4
+        }
+    ]
+}

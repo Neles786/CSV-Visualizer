@@ -1,0 +1,1 @@
+{"apps": [{"name": "podinfo-prometheus-rps-p95", "workflow": "CustomRun", "filepath": "results/podinfo-prometheus-rps-p95.csv"}]}
